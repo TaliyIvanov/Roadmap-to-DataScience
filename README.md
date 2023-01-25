@@ -80,7 +80,7 @@
 
 #### Ссылки на возможные курсы:
 - www.freecodecamp.org/news/free-statistics-course
-- learndatacamp.com/sourses/statistical-thinking-in-python-part-1
+- learn.datacamp.com/courses/statistical-thinking-in-python-part-1
 - www.udacity.com/course/intro-to-inferential-statistics--ud201
 - www.freecodecamp.org/news/statistics-for-data-science
 - www.um.edu.ar/math/montgomery.pdf
@@ -88,3 +88,43 @@
 - www.udacity.com/course/statistics--st095
 
 ### Machine Learning
+Машинное обучение - подраздел ИИ, изучающий методы анализа данных, который ползволяет аналитической системе самостоятельно обучаться посредством решения множества схожих задач.
+
+Есть три основных типа обучения(естественно их больше, но сконцентрироваться для начала стоит на этих):
+- supervised learning - проблемы регрессии и классификации;
+- unsupervised learning - кластеризация и уменьшение размерности;
+- reinforcement learning - помогает создавать системы самовознаграждения(self-rewarding).
+
+#### Обучение с учителем - наиболее распространенный тип задач, к нему относятся:
+##### Classification
+- Naive Bayes
+- Logistic Regression
+- Artifical neural networks (ANNs)
+- Decision Trees
+- K-Nearest Neighbors
+- Support Vector Machines
+- Bagging Trees - Random Forests
+- Boosted Trees - Catboost, Adaboost, GBM, XGBoost and Light GBM
+
+##### Regression
+- Linear Regression, Lasso Regression and Ridge Regression
+- Decision Trees
+- K-Nearest Neighbors
+- Ensemble Techniques
+
+#### Обучение без учителя
+- Кластеризация - поиск не пересекающихся подмножеств данных(кластеров). Техника на основе разделения (K-means) и иерархическая кластеризация (Agglomerative and Divisive Clustering). Основная цель - понимание данных, путем выявления кластерных структур, сжатие данных(когда не хватает мощностей или есть ограничения по времени). Можно скоращать выборку оставляя только часть типичных представителей кластеров. Еще одна цель - выявление новизны. Когда объект невозможно присоединить ни к одному кластеру.
+- Уменьшение размерности - Principal Component Analysis, Factor Analysis and Singular Vector Decomposition. Применяется для снижения трудоемкости работы с данными и требования к ресурсам.
+
+#### Ссылки на возможные курсы:
+- mlcourse.ai
+- www.coursera.org/specializations/machine-learning-data-analysis
+- www.coursera.org/learn/python-for-data-science
+- www.coursera.org/specializations/data-science-python
+- www.coursera.org/learn/machine-learning
+- www.kaggle.com/learn/intro-to-machine-learning
+
+### Общие рекомендации
+- ods.ai - сообзество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
+- Участвовать в разнообразных соревнованиях: kaggle, drivendata, boosters
+- Участвовать в хакатонах.
