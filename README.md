@@ -17,8 +17,14 @@
 - www.kaggle.com/learn/python
 - www.coursera.org/specializations/python
 - www.codeacademy.com/learn/learn-python-3
-- delelopers.google.com/edu/python
 - pymbook.readthedocs.io
+##### SQL
+- www.coursera.org/learn/sql-for-data-science
+- www.codeacademy.com/learn/learn-sql
+- www.khanacademy.org/computing/computer-programming/sql
+- www.edx.org/course/modeling-and-theory
+- www.udemy.com/course/introduction-to-databases-and-sql-querying
+
 
 ### Data collection and preparation
 
