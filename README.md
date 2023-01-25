@@ -33,13 +33,12 @@
 ##### System design
 - www.github.com/checkcheckzz/system-design-interview
 
-
 ### Data collection and preparation (Numpy, Pandas, Dask, Spark)
 - Значительная часть работы DS сосредоточена на поиске подходящих данные, которые могут помочь решить проблему. 
 Часто приходится собирать данные из разных законных источников - парсинга(если позволяет веб-сайт), API-интерфейсов, БД и общедоступных репозиториев;
 - Когда данные собраны, часто обнаруживается, что их необходимо чистить, преобразовать, интерпретировать и т.д;
 - Работа с выбросами и пропущенными значениями.
-- 
+
 #### Ссылки на возможные курсы:
 - www.kaggle.com/learn/pandas
 - www.kaggle.com/learn/data-cleaning
@@ -49,6 +48,20 @@
 - www.codeacademy.com/learn/practical-data-cleaning
 
 ### Data analysis
+- Анализ данных, получение новой информации из данных;
+- Интерпретация данных и последующая передача ее в простых терминах и визуализациях;
+- Основная сложность в том, что существует огромный "Зоопарк" инструментов для анализа и визуализации. Начинать надо с простых инструментов:
+- seaborn;
+- bokeh;
+- plotly.
+
+#### Ссылки на возможные курсы:
+- coursera.org/learn/data-analysis-with-python
+- www.kaggle.com/learn/data-visualization
+- www.edx.org/learn/data-analysis
+- online-learning.harvard.edu/course/data-science-wrangling
+- online-learning.harvard.edu/course/data-science-visualization
+- coursera.org/learn/python-for-data-visualization
 
 ### Math and Statistic
 
