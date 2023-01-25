@@ -34,7 +34,19 @@
 - www.github.com/checkcheckzz/system-design-interview
 
 
-### Data collection and preparation
+### Data collection and preparation (Numpy, Pandas, Dask, Spark)
+- Значительная часть работы DS сосредоточена на поиске подходящих данные, которые могут помочь решить проблему. 
+Часто приходится собирать данные из разных законных источников - парсинга(если позволяет веб-сайт), API-интерфейсов, БД и общедоступных репозиториев;
+- Когда данные собраны, часто обнаруживается, что их необходимо чистить, преобразовать, интерпретировать и т.д;
+- Работа с выбросами и пропущенными значениями.
+- 
+#### Ссылки на возможные курсы:
+- www.kaggle.com/learn/pandas
+- www.kaggle.com/learn/data-cleaning
+- www.coursera.org/learn/python-data-analysis
+- www.coursera.org/learn/data-cleaning
+- www.datacamp.com/courses/cleaning-data-in-python
+- www.codeacademy.com/learn/practical-data-cleaning
 
 ### Data analysis
 
