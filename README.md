@@ -31,7 +31,7 @@
 - www.datacamp.com/courses/introduction-to-shell-for-data-science
 
 ##### System design
-- github.com/checkcheckzz/system-design-interview
+- www.github.com/checkcheckzz/system-design-interview
 
 
 ### Data collection and preparation
