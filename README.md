@@ -59,8 +59,8 @@
 - www.coursera.org/learn/data-analysis-with-python
 - www.kaggle.com/learn/data-visualization
 - www.edx.org/learn/data-analysis
-- https://pll.online-learning.harvard.edu/course/data-science-wrangling
-- https://pll.online-learning.harvard.edu/course/data-science-visualization
+- pll.online-learning.harvard.edu/course/data-science-wrangling
+- pll.online-learning.harvard.edu/course/data-science-visualization
 - www.coursera.org/learn/python-for-data-visualization
 
 ### Math and Statistic
