@@ -56,12 +56,12 @@
 - plotly.
 
 #### Ссылки на возможные курсы:
-- coursera.org/learn/data-analysis-with-python
+- www.coursera.org/learn/data-analysis-with-python
 - www.kaggle.com/learn/data-visualization
 - www.edx.org/learn/data-analysis
-- online-learning.harvard.edu/course/data-science-wrangling
-- online-learning.harvard.edu/course/data-science-visualization
-- coursera.org/learn/python-for-data-visualization
+- https://pll.online-learning.harvard.edu/course/data-science-wrangling
+- https://pll.online-learning.harvard.edu/course/data-science-visualization
+- www.coursera.org/learn/python-for-data-visualization
 
 ### Math and Statistic
 
