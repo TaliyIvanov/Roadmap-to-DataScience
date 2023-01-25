@@ -118,8 +118,8 @@
 
 #### Ссылки на возможные курсы:
 - mlcourse.ai
-- www.coursera.org/specializations/machine-learning-data-analysis
-- www.coursera.org/learn/python-for-data-science
+- www.coursera.org/specializations/machine-learning-data-analysis (не работает, надо поискать)
+- www.coursera.org/learn/python-for-data-science (не работает, надо поискать)
 - www.coursera.org/specializations/data-science-python
 - www.coursera.org/learn/machine-learning
 - www.kaggle.com/learn/intro-to-machine-learning
