@@ -25,6 +25,14 @@
 - www.edx.org/course/modeling-and-theory
 - www.udemy.com/course/introduction-to-databases-and-sql-querying
 
+##### Console
+- www.cpdeacademy.com/learn/learn-the-command-line
+- www.udacity.com/course/linux-command-line-basics--ud595
+- www.datacamp.com/courses/introduction-to-shell-for-data-science
+
+##### System design
+- github.com/checkchechzz/system-design-interview
+
 
 ### Data collection and preparation
 
