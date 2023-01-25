@@ -14,6 +14,11 @@
 #### Ссылки на возможные курсы:
 ##### Python
 - www.learnpython.org
+- www.kaggle.com/learn/python
+- www.coursera.org/specializations/python
+- www.codeacademy.com/learn/learn-python-3
+- delelopers.google.com/edu/python
+- pymbook.readthedocs.io
 
 ### Data collection and preparation
 
