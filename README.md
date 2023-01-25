@@ -54,15 +54,19 @@
 - seaborn;
 - bokeh;
 - plotly.
+Полезно смотреть примеры визуализаций конкурсов на kaggle.
 
 #### Ссылки на возможные курсы:
 - www.coursera.org/learn/data-analysis-with-python
 - www.kaggle.com/learn/data-visualization
 - www.edx.org/learn/data-analysis
-- pll.online-learning.harvard.edu/course/data-science-wrangling
-- pll.online-learning.harvard.edu/course/data-science-visualization
+- online-learning.harvard.edu/course/data-science-wrangling
+- online-learning.harvard.edu/course/data-science-visualization
 - www.coursera.org/learn/python-for-data-visualization
 
 ### Math and Statistic
+Математика необходима для понимания того, как работают методы машинного обучения. Например методы машинного обучения используют матрицы для хранения и обработки данных. А матрицы, линейные уровнения и векторные пространства это и есть линейная алгебра. 
+Мат статистика помогает правильно выбирать распределения и устанавливать зависимость между переменными. Проведение правильного A/B тестирования не возможно без понимания что такое статистическая значимость.
+
 
 ### Machine Learning
