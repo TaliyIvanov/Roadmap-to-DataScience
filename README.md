@@ -40,6 +40,7 @@
 - Работа с выбросами и пропущенными значениями.
 
 #### Ссылки на возможные курсы:
+- https://stepik.org/course/120014/syllabus Numpy+Pandas
 - www.kaggle.com/learn/pandas
 - www.kaggle.com/learn/data-cleaning
 - www.coursera.org/learn/python-data-analysis
