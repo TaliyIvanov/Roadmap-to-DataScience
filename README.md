@@ -128,6 +128,8 @@
 - www.coursera.org/learn/machine-learning
 - www.kaggle.com/learn/intro-to-machine-learning
 
+- https://www.coursera.org/learn/machine-learning/home/week/1
+
 ### Общие рекомендации
 - ods.ai - сообзество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
 - Участвовать в разнообразных соревнованиях: kaggle, drivendata, boosters
