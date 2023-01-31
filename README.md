@@ -58,6 +58,7 @@
 Полезно смотреть примеры визуализаций конкурсов на kaggle.
 
 #### Ссылки на возможные курсы:
+- https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-4
 - www.coursera.org/learn/data-analysis-with-python
 - www.kaggle.com/learn/data-visualization
 - www.edx.org/learn/data-analysis
