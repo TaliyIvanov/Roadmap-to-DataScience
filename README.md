@@ -128,8 +128,11 @@
 - www.coursera.org/specializations/data-science-python
 - www.coursera.org/learn/machine-learning
 - www.kaggle.com/learn/intro-to-machine-learning
-
 - https://www.coursera.org/learn/machine-learning/home/week/1
+##### Лекции ML
+- https://youtu.be/ZpYj02xMImc
+- https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK&index=2
+- https://www.youtube.com/watch?v=BPcicsBuRdc&list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF&index=1&t=0s
 
 ### Общие рекомендации
 - ods.ai - сообзество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
