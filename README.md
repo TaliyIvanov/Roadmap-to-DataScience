@@ -19,6 +19,8 @@
 - www.codeacademy.com/learn/learn-python-3
 - pymbook.readthedocs.io
 ##### SQL
+- https://stepik.org/course/63054/syllabus
+- https://stepik.org/course/99786/syllabus
 - www.coursera.org/learn/sql-for-data-science
 - www.codeacademy.com/learn/learn-sql
 - www.khanacademy.org/computing/computer-programming/sql
