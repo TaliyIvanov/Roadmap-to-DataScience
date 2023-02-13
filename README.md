@@ -125,6 +125,9 @@
 
 #### Ссылки на возможные курсы:
 - mlcourse.ai
+- https://github.com/Yorko/mlcourse.ai
+- https://www.youtube.com/watch?v=CPlYV_DryEo&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX ML.ai_EnglishEdition)
+- https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=1 (ML.ai_RussianEdition)
 - www.coursera.org/specializations/machine-learning-data-analysis (не работает, надо поискать)
 - www.coursera.org/learn/python-for-data-science (не работает, надо поискать)
 - www.coursera.org/specializations/data-science-python
