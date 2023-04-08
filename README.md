@@ -18,6 +18,15 @@
 - www.coursera.org/specializations/python
 - www.codeacademy.com/learn/learn-python-3
 - pymbook.readthedocs.io
+
+##### Python practice
+- https://metanit.com/python/
+- https://acmp.ru/index.asp?main=tasks&str=%20&page=0&id_type=4
+- https://codeforces.com/
+- https://www.hackerrank.com/domains/python
+- https://www.codewars.com/
+- https://leetcode.com/
+
 ##### SQL
 - https://stepik.org/course/63054/syllabus
 - https://stepik.org/course/99786/syllabus
@@ -26,6 +35,12 @@
 - www.khanacademy.org/computing/computer-programming/sql
 - www.edx.org/course/modeling-and-theory
 - www.udemy.com/course/introduction-to-databases-and-sql-querying
+
+##### SQL practice
+- https://www.codewars.com/
+- https://leetcode.com/
+- https://www.sql-ex.ru/
+- https://sqlzoo.net/wiki/SQL_Tutorial
 
 ##### Console
 - www.codeacademy.com/learn/learn-the-command-line
@@ -36,7 +51,7 @@
 - www.github.com/checkcheckzz/system-design-interview
 
 ### Data collection and preparation (Numpy, Pandas, Dask, Spark)
-- Значительная часть работы DS сосредоточена на поиске подходящих данные, которые могут помочь решить проблему. 
+- Значительная часть работы DS сосредоточена на поиске подходящих данных, которые могут помочь решить проблему. 
 Часто приходится собирать данные из разных законных источников - парсинга(если позволяет веб-сайт), API-интерфейсов, БД и общедоступных репозиториев;
 - Когда данные собраны, часто обнаруживается, что их необходимо чистить, преобразовать, интерпретировать и т.д;
 - Работа с выбросами и пропущенными значениями.
@@ -83,6 +98,7 @@
 - Maechanistic Analysis - выявление внутренних взаимосвязей в данных.
 
 #### Ссылки на возможные курсы:
+- http://mathprofi.ru/ - Отличный сайт для изучения математики
 - www.freecodecamp.org/news/free-statistics-course
 - learn.datacamp.com/courses/statistical-thinking-in-python-part-1
 - www.udacity.com/course/intro-to-inferential-statistics--ud201
@@ -90,9 +106,6 @@
 - www.um.edu.ar/math/montgomery.pdf
 - www.statsoft.com/Textbook
 - www.udacity.com/course/statistics--st095
-
-#### Полезные ссылки, которые я нахожу по мере изучаниея:
-- http://matrixmultiplication.xyz/ - визуализация сложения матриц
 
 ### Machine Learning
 Машинное обучение - подраздел ИИ, изучающий методы анализа данных, который ползволяет аналитической системе самостоятельно обучаться посредством решения множества схожих задач.
@@ -125,6 +138,7 @@
 
 #### Ссылки на возможные курсы:
 - mlcourse.ai
+- https://stepik.org/course/135002/syllabus
 - https://github.com/Yorko/mlcourse.ai
 - https://www.youtube.com/watch?v=CPlYV_DryEo&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX ML.ai_EnglishEdition)
 - https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=1 (ML.ai_RussianEdition)
@@ -134,12 +148,19 @@
 - www.coursera.org/learn/machine-learning
 - www.kaggle.com/learn/intro-to-machine-learning
 - https://www.coursera.org/learn/machine-learning/home/week/1
+
 ##### Лекции ML
 - https://youtu.be/ZpYj02xMImc
 - https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK&index=2
 - https://www.youtube.com/watch?v=BPcicsBuRdc&list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF&index=1&t=0s
 
 ### Общие рекомендации
-- ods.ai - сообзество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
+- ods.ai - сообoество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
 - Участвовать в разнообразных соревнованиях: kaggle, drivendata, boosters
 - Участвовать в хакатонах.
+
+#### Полезные ссылки, которые я нахожу по мере изучения:
+- http://matrixmultiplication.xyz/ - визуализация сложения матриц
+- https://www.stratascratch.com/
+- https://www.javatpoint.com/
+- https://habr.com/ru/articles/708752/ - Математика для DS и ML за 8 месяцев. Подробный план обучения
