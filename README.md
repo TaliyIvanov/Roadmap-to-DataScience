@@ -188,6 +188,7 @@
 - https://youtu.be/ZpYj02xMImc
 - https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK&index=2
 - https://www.youtube.com/watch?v=BPcicsBuRdc&list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF&index=1&t=0s
+- https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
 ### Общие рекомендации
 - ods.ai - сообoество. объединяющее всех исследователей, инженеров и разработчиков в области Data Science  и смежных областях (45к участников)
