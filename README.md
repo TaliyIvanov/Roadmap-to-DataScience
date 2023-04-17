@@ -200,6 +200,7 @@
 - https://www.stratascratch.com/
 - https://www.javatpoint.com/
 - https://habr.com/ru/articles/708752/ - Математика для DS и ML за 8 месяцев. Подробный план обучения
+- https://pyprog.pro/ - Хороший и наглядный сайт для освоения Python, Numpy, Pandas, Matplotlib, Seaborn
 
 ### English Language
 Как говорится, английский язык и есть язык программирования, так как на нем информации значительно больше и она полезнее.
